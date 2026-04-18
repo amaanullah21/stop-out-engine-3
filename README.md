@@ -35,7 +35,7 @@ It simulates the broker-side margin engine, including bonus mechanics, strict eq
 
 ## How to Use
 
-1. **Open the link ["Risk Simulator Pro — Dynamic Trading Dashboard"](https://amaanullah21.github.io/stop-out-engine-3/) in any in any modern browser — no server required
+1. Open the link ["Risk Simulator Pro — Dynamic Trading Dashboard"](https://amaanullah21.github.io/stop-out-engine-3/) in any in any modern browser — no server required
 2. **Fill in your trade parameters** in the left panel:
    - Trade direction (Buy or Sell)
    - Entry price and target price
